@@ -2,6 +2,7 @@ class Sample{
 public static void main(String[] args){
 System.out.println("v01.signup & login");
 System.out.println("v01.b  compose(nm) && signup & login(om");
+System.out.println("v01.d logout");
 }
 
 }
